@@ -15,6 +15,7 @@
 		 sudo kubectl expose deployment mywebapp --port 8080 --type LoadBalancer
 		 fi
 		
+		
         """
  }  
 }      
